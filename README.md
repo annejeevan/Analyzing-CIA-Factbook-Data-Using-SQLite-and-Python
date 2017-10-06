@@ -1,5 +1,3 @@
-# Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python
-
 We will work with data from the [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/), a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like:
 
 * population - The population as of 2015.
